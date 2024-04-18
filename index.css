@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+#spandiv{
+    color: white;
+}
+
+span {
+    margin-left: 35px;
+}
+
+.eve {
+    color: white;
+    margin-left: 35px;
+}
+
+a {
+    text-decoration:none;
+    color:white
+}
